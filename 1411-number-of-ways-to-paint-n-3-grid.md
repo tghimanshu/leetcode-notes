@@ -1,7 +1,7 @@
 # 1411. Number of Ways to Paint N × 3 Grid
 
 **Difficulty**: Hard
-**Date**: 2026-01-03
+**Date**: 2026-01-03 (Daily)
 
 ## Problem Statement
 

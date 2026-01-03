@@ -1,7 +1,7 @@
 # 961. N-Repeated Element in Size 2N Array
 
 **Difficulty**: Easy
-**Date**: 2026-01-02
+**Date**: 2026-01-02 (Daily)
 
 ## Problem Statement
 
