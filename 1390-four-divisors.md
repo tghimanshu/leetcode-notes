@@ -37,3 +37,11 @@ Only add it to the sum if total divisors are 4
 
 - Time Complexity: O(N(Root M)) -> N being the list of numbers, M being the unique numbers
 - Space Complexity: O(N) -> Storing the seen dictory for memoization
+
+## Extras
+
+```python
+__import__("atexit").register(lambda: open('display_runtime.txt','w').write('0'))
+```
+
+- TODO: Saw this in some codebase in solutions but not sure what it does
