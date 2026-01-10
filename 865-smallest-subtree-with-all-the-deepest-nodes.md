@@ -13,6 +13,13 @@ https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/
 
 We have a tree and need to find the nodes with depth such that all nodes are covered with the bigger depth
 
+Learnings from the solution used:
+
+- Ensure to understand the question well
+- The question states to show the tree with all the deepest nodes
+- The failing test case in my code happened cause left goes to depth 3 while right goest to 2
+- So only the left tree would be used and right can be skipped and we go till the depth 1 since we need to have all leaf nodes covered
+
 ## 🔧 Approach
 
 <!-- Bullets. No paragraphs. -->
