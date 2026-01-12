@@ -45,3 +45,7 @@ https://leetcode.com/problems/minimum-time-visiting-all-points/
 
 - Time Complexity: O(N)
 - Space Complexity: O(1)
+
+## Reference
+
+- [https://www.youtube.com/watch?v=xHOt3GGmbvo&t=298s]
