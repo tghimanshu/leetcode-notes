@@ -11,7 +11,7 @@ tags: []
 ---
 
 **Difficulty**: Easy
-**Date**: 2026-01-16
+**Date**: 2026-01-16, 2026-01-31 (Daily)
 **url**: https://leetcode.com/problems/find-smallest-letter-greater-than-target/
 **tags**: [leetcode]
 
